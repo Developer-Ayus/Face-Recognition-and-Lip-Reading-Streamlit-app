@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+tensorflow
+ultralytics
+deepface
+numpy
+Pillow
+matplotlib
+imageio
+gdown
